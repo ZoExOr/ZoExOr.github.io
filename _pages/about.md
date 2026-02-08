@@ -26,10 +26,10 @@ latest_posts:
 
 
 
-Hi there! I am currently a 3rd-year BSc student in Computer Science at <a href='https://vu.nl/en/about-vu/more-about/rankings'>Vrije Universiteit Amsterdam</a>, with a GPA of 8.8/10 (top 10%, see <a href='https://www.studyinnl.org/dutch-education/dutch-grading-system'>Dutch grading system</a>), expected to graduate at 2026.
+Hi there! I am currently a 3rd-year BSc student in Computer Science at <a href='https://vu.nl/en/about-vu/more-about/rankings'>Vrije Universiteit Amsterdam</a>, with a GPA of 8.8/10 (top 10%), expected to graduate at 2026.
 
-I have a strong foundation in Computer Science and Mathematics. Probability theory and information theory shape how I naturally think about the world: not everything that arrives is information. Only what genuinely reduces uncertainty deserves attention. Learning, to me, is as much about filtering noise as it is about acquiring knowledge, and clarity often comes from deciding what to ignore.
+I view learning as a dynamic balance between exploration and exploitation. I tend to seek opportunities broadly, then commit deeply once I find a high-impact direction. This mindset led me to independently initiate a project at the <a href='https://socialai.nl/'>Social AI Lab</a>, where I served as first author for a study published in <a href='https://humanrobotinteraction.org/2026/'>HRI'26 (LBR track)</a> -- a milestone that allowed me to bridge the gap between human-centric design and technical implementation.
 
-My goal is to seize opportunities and explore broadly, while going deep enough to make deliberate choices rather than drifting into them. That mindset has already guided my actions. For example, I initiated a summer research experience by reaching out to a lab on my own, joined the group, committed seriously to the work, and contributed to a project that eventually led to a publication -- an experience I did not expect to gain before graduation.
+Outside my studies, I like navigating a new book (check <a href ='https://zoexor.github.io/books/'>books I've read</a>) or creating bird-themed sticker sets (see <a href='https://zoexor.github.io/art/'>my artistic creations</a>).
 
-I value a problem-solving mindset, responsibility, and respect for others, and I enjoy working with people who approach their work and their lives with similar motivation and curiosity. If my background or way of thinking resonates with you, I’d be glad to connect, whether it’s to exchange ideas, work together, or just talk things through.
+I value responsibility, clear communication, and working with people who are driven by proactivity and curiosity. If you’re interested in collaborating or exchanging ideas, feel free to reach out.
