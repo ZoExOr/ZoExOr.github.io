@@ -30,21 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-books-i-39-ve-read",
-              title: "books I&#39;ve read",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-my-artistic-creations",
-              title: "my artistic creations ;))",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/art/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-my-drawings",
+          title: "my drawings ;))",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/art/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
