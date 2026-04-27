@@ -30,6 +30,6 @@ Hi there! I am currently a 3rd-year BSc student in Computer Science at <a href='
 
 I view learning as a dynamic balance between exploration and exploitation. I tend to seek opportunities broadly, then commit deeply once I find a high-impact direction. This mindset led me to independently initiate a project at the <a href='https://socialai.nl/'>Social AI Lab</a>, where I served as first author for a study published in <a href='https://humanrobotinteraction.org/2026/'>HRI'26 (LBR track)</a> -- a milestone that allowed me to bridge the gap between human-centric design and technical implementation.
 
-Outside my studies, I like navigating a new book (check <a href ='https://zoexor.github.io/books/'>books I've read</a>) or creating bird-themed sticker sets (see <a href='https://zoexor.github.io/art/'>my artistic creations</a>).
+Outside my studies, I am a big fan of birds. I enjoy both birdwatching and drawing them, and I have even made two bird sticker series (see <a href='https://zoexor.github.io/art/'>my drawings</a>).
 
 I value responsibility, clear communication, and working with people who are driven by proactivity and curiosity. If you’re interested in collaborating or exchanging ideas, feel free to reach out.

@@ -1,7 +1,10 @@
 ---
 layout: page
-title: My artistic creations ;))
+title: my drawings ;))
 permalink: /art/
+nav: true
+nav_title: my drawings ;))
+nav_order: 8
 collection: art
 ---
 
